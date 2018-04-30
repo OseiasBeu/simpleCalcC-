@@ -1,0 +1,9 @@
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.exe.config
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.exe
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.pdb
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csprojResolveAssemblyReference.cache
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.Form1.resources
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.Properties.Resources.resources
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.GenerateResource.Cache
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.exe
+C:\Users\Oséias\Desktop\simpleCalcC#\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.pdb
